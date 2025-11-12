@@ -21,4 +21,4 @@ To strengthen problem-solving skills and prepare for technical interviews.
 
 ---
 
-📌 Author: [Preet Tyagi](https://github.com/YourGitHubUsername)
+📌 Author: [Preet Tyagi]([https://github.com/YourGitHubUsername](https://github.com/preettyagi123/Data-Structure-and-Algorithm))
